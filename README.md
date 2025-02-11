@@ -1,4 +1,4 @@
-# 🌦️ Weather Detection App 🚀  
+#  Weather Detection App 🌦️🚀  
 
 Excited to share that I have successfully built a **Weather Detection App**! 🎉  
 This project challenged me to fetch **real-time weather data** and enhance user experience through efficient **API handling**.  
